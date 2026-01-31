@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Api", "Cinema.Api\Cinema.Api.csproj", "{16C9B0E2-C37C-42E6-9CD0-DA1C51698918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Infrastructure", "Cinema.Infrastructure\Cinema.Infrastructure.csproj", "{DF492DE1-DF2F-49C3-A57F-F65DF2608566}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Domain", "Cinema.Domain\Cinema.Domain.csproj", "{82DC4BB3-2187-47E3-8718-91C636DD68B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema.Application", "Cinema.Application\Cinema.Application.csproj", "{DEA70162-C5EA-4791-94A3-D568FBA00DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C9B0E2-C37C-42E6-9CD0-DA1C51698918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C9B0E2-C37C-42E6-9CD0-DA1C51698918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C9B0E2-C37C-42E6-9CD0-DA1C51698918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C9B0E2-C37C-42E6-9CD0-DA1C51698918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF492DE1-DF2F-49C3-A57F-F65DF2608566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF492DE1-DF2F-49C3-A57F-F65DF2608566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF492DE1-DF2F-49C3-A57F-F65DF2608566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF492DE1-DF2F-49C3-A57F-F65DF2608566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DC4BB3-2187-47E3-8718-91C636DD68B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DC4BB3-2187-47E3-8718-91C636DD68B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DC4BB3-2187-47E3-8718-91C636DD68B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DC4BB3-2187-47E3-8718-91C636DD68B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA70162-C5EA-4791-94A3-D568FBA00DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA70162-C5EA-4791-94A3-D568FBA00DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA70162-C5EA-4791-94A3-D568FBA00DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA70162-C5EA-4791-94A3-D568FBA00DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
